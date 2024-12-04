@@ -57,7 +57,7 @@ Hráč postupuje cez rôzne levely, bojuje s nepriateľmi a spravuje svoj tím b
 ---
 
 ## UML Diagram
-![UML Diagram](path/to/uml-diagram.png)
+![UML Diagram](umlpnginf2sem.png)
 
 ---
 
