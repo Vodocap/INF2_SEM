@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"sk.uniza.fri"},{"l":"sk.uniza.fri.bojovnici"},{"l":"sk.uniza.fri.hra"},{"l":"sk.uniza.fri.obrazky"},{"l":"sk.uniza.fri.prostredie"},{"l":"sk.uniza.fri.vynimky"}];updateSearchResults();
