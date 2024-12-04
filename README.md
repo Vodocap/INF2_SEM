@@ -52,9 +52,16 @@ Hráč postupuje cez rôzne levely, bojuje s nepriateľmi a spravuje svoj tím b
   2. Nakúpiť bojovníkov.
   3. Ukončiť hru.
 
-- **Typy bojovníkov:** Hra obsahuje rôznych bojovníkov, ako rytier, ninja, lukostrelec, kúzelník, necromancer, pirát a boss. Každý má unikátne štatistiky a špeciálne schopnosti. 
+- **Typy bojovníkov:** Hra obsahuje rôznych bojovníkov, ako rytier, ninja, lukostrelec, kúzelník, necromancer, pirát a boss. Každý má unikátne štatistiky a špeciálne schopnosti.
 
+- ![Ninja](pics/healujuci_ninja_nalavo.png)
+- ![Lukostrelec](pics/lukostrelec_nalavo.png)
+- ![Kúzelník](pics/kuzelnik_nalavo.png)
+- ![Pirát](pics/pirat_peniaze_nalavo.png)
+- ![Rytier](pics/rytier_nalavo.png)
+- ![Boss](pics/boss_nalavo.png)
 ---
+
 
 ## UML Diagram
 ![UML Diagram](umlpnginf2sem.png)
