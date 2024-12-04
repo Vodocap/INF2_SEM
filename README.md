@@ -68,7 +68,7 @@ Hráč postupuje cez rôzne levely, bojuje s nepriateľmi a spravuje svoj tím b
 - **Boss**
 - ![Boss](pics/boss_nalavo.png)
 - **Necromancer**
-- [Necromancer](pics/necromancer_ozivuje_nalavo.png)
+- ![Necromancer](pics/necromancer_ozivuje_nalavo.png)
 ---
 
 
