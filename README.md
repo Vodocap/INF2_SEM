@@ -9,7 +9,7 @@
 
 ## Popis projektu
 
-Táto semestrálna práca je hrou vytvorenou v rámci predmetu Informatika 2. Hra je implementovaná s využitím objektovo-orientovaného programovania s cieľom zdokonaliť koncepty ako polymorfizmus, nízka závislosť kódu a rozšírenie funkcionality. 
+Táto semestrálna práca je hrou vytvorenou v rámci predmetu Informatika 2. Hra je implementovaná s využitím objektovo-orientovaného programovania s cieľom zdokonaliť sa v porozumení konceptov polymorfizmu.
 
 Hráč postupuje cez rôzne levely, bojuje s nepriateľmi a spravuje svoj tím bojovníkov. Počas hry je možné:
 - Kupovať a vylepšovať bojovníkov.
